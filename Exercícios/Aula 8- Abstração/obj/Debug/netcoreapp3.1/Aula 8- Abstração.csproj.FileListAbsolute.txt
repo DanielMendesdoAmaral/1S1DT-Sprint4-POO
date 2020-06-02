@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\bin\Debug\netcoreapp3.1\Aula 8- Abstração.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 8- Abstração\obj\Debug\netcoreapp3.1\Aula 8- Abstração.genruntimeconfig.cache
