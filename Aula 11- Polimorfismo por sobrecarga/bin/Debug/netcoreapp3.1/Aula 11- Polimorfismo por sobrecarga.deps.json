@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 11- Polimorfismo por sobrecarga/1.0.0": {
+        "runtime": {
+          "Aula 11- Polimorfismo por sobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 11- Polimorfismo por sobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
