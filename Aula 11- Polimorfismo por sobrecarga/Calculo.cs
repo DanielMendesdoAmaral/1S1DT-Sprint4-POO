@@ -1,8 +1,8 @@
-namespace Aula_11__Polimorfismo_por_sobrecarga
+﻿namespace Aula_11__Polimorfismo_por_sobrecarga
 {
     public class Calculo
     {
-        //São várias possibilidades de chamar um método.
+        //São várias possibilidades de chamar um método. Podem ter retornos diferentes.
 
         public string Calcular() {
             return "Nulo, pois faltam operadores.";
