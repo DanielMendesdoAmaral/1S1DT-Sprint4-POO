@@ -9,7 +9,7 @@ namespace Aula_10__Polimorfismo
         }
 
         override public void Correr() {
-            base.Correr();
+            base.Correr(); //Herda o código da base, e acrescenta a linha de baixo.
             Console.WriteLine("O Luigi corre normalmente.");
         }
     }

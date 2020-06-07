@@ -1,4 +1,4 @@
-namespace CadastroAlunos
+﻿namespace CadastroAlunos
 {
     public class Aluno
     {
@@ -12,7 +12,7 @@ namespace CadastroAlunos
         public float valorMensalidade;
 
         /// <summary>
-        /// Mostra a média final do aluno
+        /// Mostra a média final do aluno                                            <- Este é o XML Document em ação, para documentar códigos.
         /// </summary>
         /// <returns>Media final (float)</returns>
         public float VerMediaFinal(){
