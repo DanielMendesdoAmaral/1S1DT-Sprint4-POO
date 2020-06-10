@@ -2,6 +2,10 @@ namespace Aula_13___Projeto_uber_console
 {
     public class Passageiro : Usuario
     {
+        public Passageiro(string login, string senha, string nome, string foto, string localizacaoAtual) : base(login, senha, nome, foto, localizacaoAtual) {
+
+        }
+
         private Cartao cartao;
         public Cartao Cartao
         {

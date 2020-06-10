@@ -2,6 +2,14 @@ namespace Aula_13___Projeto_uber_console
 {
     public class Usuario
     {
+        public Usuario(string login, string senha, string nome, string foto, string localizacaoAtual) {
+            Login=login;
+            Senha=senha;
+            Nome=nome;
+            Foto=foto;
+            LocalizacaoAtual=localizacaoAtual;
+        }
+
         private string login;
         public string Login
         {

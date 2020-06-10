@@ -7,49 +7,39 @@ namespace Aula_13___Projeto_uber_console
         static void Main(string[] args)
         {
             Console.Clear();
+            string login=null, senha=null, opcao=null;
 
-            Conta conta = new Conta();
-            conta.Agencia = "1234";
-            conta._Conta = "1515151";
-            
-            Motorista m = new Motorista();
-            m.Login = "Jr";
-            m.Senha = "123";
-            m.Nome = "Lauro";
-            m.Foto = "3x4";
-            m.LocalizacaoAtual = "São Mateus";
-            m.Carro = "Siena";
-            m.Conta=conta;
+            Motorista motorista = new Motorista("LauroJr", "123", "Lauro", "3x4", "São Mateus", "Honda Civic", "ABC-1234");
+            Passageiro passageiro = new Passageiro("DanielM", "123", "Daniel", "3x4", "São Mateus");
+            Ler("LOGIN: ", ref login);
+            Ler("SENHA: ", ref senha);
+            passageiro.FazerLogin(login, senha);
+            Apagar(2);
 
-            Cartao cartao = new Cartao();
-            cartao.Numero = "1234 1234 1234 1234";
-            cartao.Titular = "Daniel Mendes do Amaral";
-            cartao.Bandeira = "Visa";
-            cartao.Cvv = "123";
+            Ler("Você quer pedir um uber? [S/N] ", ref opcao);
 
-            Passageiro p = new Passageiro();
-            p.Login = "Daniel";
-            p.Senha = "123";
-            p.Cartao = cartao;
-            System.Console.Write("LOGIN: ");
-            string l = Console.ReadLine();
-            System.Console.Write("SENHA: ");
-            string s = Console.ReadLine();
-            p.FazerLogin(l, s);
-            System.Console.WriteLine($"{p.SolicitarMotorista()}\n{m.AceitarPassageiro(p)}\n");
+            switch (opcao) {
+                case ("S"):
+                    System.Console.WriteLine(passageiro.SolicitarMotorista());
+                    System.Console.WriteLine($"NOME DO MOTORISTA: {motorista.Nome}\nMODELO DO CARRO: {motorista.Carro}\nPLACA DO CARRO: {motorista.Placa}");
+                    Ler("Selecione seu destino: ", ref opcao);
+                    Apagar(3);
+                    System.Console.WriteLine("Viagem finalizada com sucesso. Efetue o pagamento.");
+                    passageiro.Pagar();
+                    motorista.ReceberPagamento(passageiro);
+                break;
+            }
+        }
 
-            Pagamento p123456789 = new Pagamento();
+        static void Ler(string mensagem, ref string variavel) {
+            System.Console.Write(mensagem);
+            variavel = Console.ReadLine();
+        }
 
-            System.Console.WriteLine($"\nDADOS DO PAGAMENTO\n{p123456789.Data}\n{p123456789.Status}");
-
-            Corrida c24574522 = new Corrida();
-            c24574522.Inicio = "São Mateus";
-            c24574522.Chegada = "Parque São Rafael";
-            c24574522.Motorista = m;
-            c24574522.Passageiro = p;
-            System.Console.WriteLine($"\nDADOS DA CORRIDA: {c24574522.Inicio}\n{c24574522.Chegada}\n{c24574522.Motorista.Nome}\n{c24574522.Passageiro.Login}");
-
-            
+        static void Apagar(int segundos) {
+            segundos = segundos*1000;
+            System.Threading.Thread.Sleep(segundos);
+            Console.Clear();
         }
     }
 }

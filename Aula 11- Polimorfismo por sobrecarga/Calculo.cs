@@ -2,7 +2,7 @@
 {
     public class Calculo
     {
-        //São várias possibilidades de chamar um método. Podem ter retornos diferentes.
+        //São várias possibilidades de chamar um método. Podem ter retornos diferentes. Tem que ter o mesmo nome.
 
         public string Calcular() {
             return "Nulo, pois faltam operadores.";
