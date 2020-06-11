@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\bin\Debug\netcoreapp3.1\Aula 15- Try-Catch.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 15- Try-Catch\obj\Debug\netcoreapp3.1\Aula 15- Try-Catch.genruntimeconfig.cache
