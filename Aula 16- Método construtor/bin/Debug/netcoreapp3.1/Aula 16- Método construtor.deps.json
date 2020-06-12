@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 16- Método construtor/1.0.0": {
+        "runtime": {
+          "Aula 16- Método construtor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 16- Método construtor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

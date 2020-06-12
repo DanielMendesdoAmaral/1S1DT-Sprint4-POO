@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\bin\Debug\netcoreapp3.1\Aula 16- Método construtor.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 16- Método construtor\obj\Debug\netcoreapp3.1\Aula 16- Método construtor.genruntimeconfig.cache

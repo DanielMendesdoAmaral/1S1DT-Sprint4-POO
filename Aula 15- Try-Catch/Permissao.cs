@@ -23,5 +23,14 @@ namespace Aula_15__Try_Catch
                 System.Console.ForegroundColor = System.ConsoleColor.White;
             }
         }
+
+        public void Acessar(bool Acesso) {
+            if (Acesso==true) {
+                System.Console.WriteLine("Permitido");
+            }
+            else {
+                System.Console.WriteLine("Negado");
+            }
+        }
     }
 }
