@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\bin\Debug\netcoreapp3.1\Aula 20- Exercício ifood.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Exercícios\Aula 20- Exercício ifood\obj\Debug\netcoreapp3.1\Aula 20- Exercício ifood.genruntimeconfig.cache
