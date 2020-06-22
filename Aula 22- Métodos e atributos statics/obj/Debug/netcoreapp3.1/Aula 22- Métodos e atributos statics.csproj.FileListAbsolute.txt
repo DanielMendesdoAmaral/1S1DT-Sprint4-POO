@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\bin\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 22- Métodos e atributos statics\obj\Debug\netcoreapp3.1\Aula 22- Métodos e atributos statics.genruntimeconfig.cache
