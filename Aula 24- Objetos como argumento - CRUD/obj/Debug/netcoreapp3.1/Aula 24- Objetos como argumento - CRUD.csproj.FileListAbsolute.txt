@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\bin\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 24- Objetos como argumento - CRUD\obj\Debug\netcoreapp3.1\Aula 24- Objetos como argumento - CRUD.genruntimeconfig.cache
