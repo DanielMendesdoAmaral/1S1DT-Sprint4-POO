@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\bin\Debug\netcoreapp3.1\Aula 25- Recursividade.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula 25- Recursividade\obj\Debug\netcoreapp3.1\Aula 25- Recursividade.genruntimeconfig.cache
