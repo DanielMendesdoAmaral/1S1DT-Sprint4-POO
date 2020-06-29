@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\bin\Debug\netcoreapp3.1\Aulas_27-30-CRUD.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aulas_27-30-CRUD\obj\Debug\netcoreapp3.1\Aulas_27-30-CRUD.genruntimeconfig.cache

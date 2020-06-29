@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aulas_27-30-CRUD/1.0.0": {
+        "runtime": {
+          "Aulas_27-30-CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aulas_27-30-CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
