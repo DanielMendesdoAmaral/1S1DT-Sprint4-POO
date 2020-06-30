@@ -51,7 +51,7 @@ namespace Aulas_27_30_CRUD
         ///     Pega todas as linhas do banco de dados e guarda em um array. Em seguida, percorre-se cada linha deste array e separa todos os dados em outro array. Em seguida instancia-se um objeto com todos esses dados (um objeto para cada registro do banco de dados) e o adiciona em uma lista de produtos. Em seguida, retorna-se esta lista.
         /// </summary>
         /// <returns>Uma lista com todos os produtos.</returns>
-        public static List<Produto> Ler() {
+        public List<Produto> Ler() {
             List<Produto> produtos = new List<Produto>();
             //Array que em cada posição guarda uma linha do banco de dados.
             string[] linhas = File.ReadAllLines(PATHARCHIVE);
@@ -74,7 +74,7 @@ namespace Aulas_27_30_CRUD
         /// </summary>
         /// <param name="nome">Nome para filtro.</param>
         /// <returns>Retorna uma lista com todos os objetos com o nome especificado.</returns>
-        public static List<Produto> Ler(string nome) {
+        public List<Produto> Ler(string nome) {
             List<Produto> produtos = new List<Produto>();
             foreach( Produto produto in Ler() ) {
                 if(produto.Nome==nome) {

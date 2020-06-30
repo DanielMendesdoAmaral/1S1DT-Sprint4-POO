@@ -10,17 +10,19 @@ namespace Aulas_27_30_CRUD
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto(6, "GTA V", 0);
+
             Console.Clear();
             
             //Percorremos cada produto de nossa lista de produtos do método Ler().
-            foreach( Produto produto in Produto.Ler() ) {
+            foreach( Produto produto in p.Ler() ) {
                 Console.WriteLine($"{produto.Nome} - {produto.Preco}");
             }
 
             Console.WriteLine();
 
             //Mostramos no console os produtos com nome de GTA V
-            foreach( Produto produto in Produto.Ler("GTA V") ) {
+            foreach( Produto produto in p.Ler("GTA V") ) {
                 Console.WriteLine($"{produto.Nome} - {produto.Preco}");
             }
         }
