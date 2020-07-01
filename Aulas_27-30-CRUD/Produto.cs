@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System;
+using System.Linq;
 
 namespace Aulas_27_30_CRUD
 {
@@ -66,6 +67,9 @@ namespace Aulas_27_30_CRUD
                 produtos.Add(produto);
             }
 
+            //Coloca a lista em ordem alfabética. Primeiro contato com a biblioteca LINQ.
+            produtos=produtos.OrderBy(produto=>produto.Nome).ToList();
+
             return produtos;
         }
 
@@ -82,6 +86,35 @@ namespace Aulas_27_30_CRUD
                 }
             }
             return produtos;
+        }
+
+        /// <summary>
+        ///     Remove todos os registros do banco de dados que contenha o termo especificado no parâmetro.
+        /// </summary>
+        /// <param name="termo">Todos os registros que tiverem este termo serão apagados.</param>
+        public void Remover(string termo) {
+            //Lista que servirá como um backup de nosso arquivo csv.
+            List<string> linhas = new List<string>();
+
+            //Utiliza-se a StreamReader em um using para ler nosso arquivo e em seguida fechá-lo.
+            using( StreamReader arquivo = new StreamReader(PATHARCHIVE) ) { //Aqui entra o caminho do arquivo a ser lido.
+                string linha;
+
+                //Vai adicionar a linha no "backup" até encontrar uma linha vazia.
+                while( (linha=arquivo.ReadLine()) != null ) {
+                    linhas.Add(linha);
+                }
+
+                //Remove as linhas que tiver o termo, que foi passado como argumento. 
+                linhas.RemoveAll( l=>l.Contains(termo) );
+            }
+
+            //Reescreve o csv de acordo com o "backup", que já teve os dados apagados. 
+            using( StreamWriter output = new StreamWriter(PATHARCHIVE) ) {
+                foreach(string ln in linhas) {
+                    output.Write($"{ln}\n");
+                }
+            }
         }
     }
 }

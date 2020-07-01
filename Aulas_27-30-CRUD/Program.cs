@@ -13,6 +13,9 @@ namespace Aulas_27_30_CRUD
             Produto p = new Produto(6, "GTA V", 0);
 
             Console.Clear();
+
+            //Remove todos gratuitos.
+            p.Remover("0");
             
             //Percorremos cada produto de nossa lista de produtos do método Ler().
             foreach( Produto produto in p.Ler() ) {
