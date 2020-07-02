@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Aulas_27_30_CRUD
 {
-    public class Produto
+    public class Produto : IProduto
     {
         //PROPRIEDADES
         public int Codigo { get; set; }
@@ -34,16 +34,16 @@ namespace Aulas_27_30_CRUD
         ///     Para registrar dados em arquivos csv, necessita-se que os dados estejam separados por "," ou ";". Este método faz isso. É um método interno.
         /// </summary>
         /// <returns>Retorna a string já formatada, com todos os dados já formatados.</returns>
-        private string PrepararLinha() {
-            return $"{this.Codigo};{this.Nome};{this.Preco}";
+        private string PrepararLinha(Produto produto) {
+            return $"{produto.Codigo};{produto.Nome};{produto.Preco}";
         }
 
         /// <summary>
         ///     Cadastra o produto no banco de dados.
         /// </summary>
-        public void Cadastrar() {
+        public void Cadastrar(Produto produto) {
             //Para utilizar o AppendAllLines, necessita-se de um array. Por isso criamos um array básico apenas para resolver o problema, e inserimos nele a nossa string que já tem os dados formatados.
-            var linha = new string[] {PrepararLinha()}; 
+            var linha = new string[] {PrepararLinha(produto)}; 
             //Este método necessita do caminho onde se quer gravar os dados e de um array de dados.
             File.AppendAllLines(PATHARCHIVE, linha);
         }
@@ -110,8 +110,48 @@ namespace Aulas_27_30_CRUD
             }
 
             //Reescreve o csv de acordo com o "backup", que já teve os dados apagados. 
+            ReescreverCsv(linhas);
+        }
+
+        /// <summary>
+        ///     Altera um produto já existente com base no código do produto já existente e o do novo produto.
+        /// </summary>
+        /// <param name="produtoAlterado">O produto que entrará no lugar de um já cadastrado no banco de dados.</param>
+        public void Alterar(Produto produtoAlterado) {
+            //Lista que servirá como um backup de nosso arquivo csv.
+            List<string> linhas = new List<string>();
+
+            //Utiliza-se a StreamReader em um using para ler nosso arquivo e em seguida fechá-lo.
+            using( StreamReader arquivo = new StreamReader(PATHARCHIVE) ) { //Aqui entra o caminho do arquivo a ser lido.
+                string linha;
+
+                //Vai adicionar a linha no "backup" até encontrar uma linha vazia.
+                while( (linha=arquivo.ReadLine()) != null ) {
+                    linhas.Add(linha);
+                }
+            }
+
+            //Irá remover o produto do csv que tiver o código igual ao do novo produto. Assim, podemos apagar o já existente e criar um novo, alterado.
+            linhas.RemoveAll( x=>x.Split(";")[0].Contains( produtoAlterado.Codigo.ToString() ) );
+
+            //
+            linhas.Add( PrepararLinha(produtoAlterado) );
+
+            //Reescreve o csv de acordo com o "backup", que já teve os dados apagados. 
+            ReescreverCsv(linhas);
+        }
+
+
+
+        //REFATORAÇÃO DE MÉTODOS -> Alguns métodos estavam utilizando códigos repetidos. Então vamos "otimizar" isto. Não há só refatoração de métodos. Por exemplo, voce pode criar classes abstratas.
+
+        /// <summary>
+        ///     Reescreve o csv a partir de um "backup".
+        /// </summary>
+        /// <param name="lines">Uma lista, que funciona como um backup.</param>
+        private void ReescreverCsv(List<string> lines) {
             using( StreamWriter output = new StreamWriter(PATHARCHIVE) ) {
-                foreach(string ln in linhas) {
+                foreach(string ln in lines) {
                     output.Write($"{ln}\n");
                 }
             }
