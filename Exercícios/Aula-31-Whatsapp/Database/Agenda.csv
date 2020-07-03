@@ -1,4 +1,7 @@
-Nome=Daniel;Telefone=999999
-Nome=Daniel;Telefone=999999
-Nome=Daniel;Telefone=999999
-Nome=Daniel;Telefone=999999
+Nome=Maria;Telefone=77777-7777
+Nome=Lauro;Telefone=66666-6666
+Texto=Olá;Destinatario=Daniel
+Texto=Como;Destinatario=Junior
+Texto=Você;Destinatario=Maria
+Texto=Está;Destinatario=Lauro
+Nome=Maria;Telefone=77777-7777
