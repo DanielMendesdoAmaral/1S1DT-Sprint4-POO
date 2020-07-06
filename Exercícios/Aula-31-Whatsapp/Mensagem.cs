@@ -8,9 +8,9 @@ namespace Aula_31_Whatsapp
 
 
         //CONSTRUTOR
-        public Mensagem(string texto, Contato destinatario) {
-            this.Texto=texto;
-            this.Destinatario=destinatario;
+        public Mensagem(string _texto, Contato _destinatario) {
+            this.Texto=_texto;
+            this.Destinatario=_destinatario;
         }
 
 
@@ -19,8 +19,8 @@ namespace Aula_31_Whatsapp
         /// </summary>
         /// <param name="destinatario">Pessoa a quem a mensagem será enviada.</param>
         /// <returns>String pronta para ir para o banco de dados.</returns>
-        public string Enviar(Contato destinatario) {
-            return $"Texto={this.Texto};Destinatario={destinatario.Nome}";
+        public string Enviar(Contato _destinatario) {
+            return $"Texto={this.Texto};Destinatario={_destinatario.Nome}";
         }
     }
 }

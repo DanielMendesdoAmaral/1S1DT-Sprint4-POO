@@ -1,5 +1,4 @@
 ﻿/*
-
 Capacidades: 
 13. Utilizar o paradigma da programação orientada a objetos
 10. Manipular os diferentes tipos de dados na elaboração de programas
@@ -18,8 +17,22 @@ Regras:
 - Crie um arquivo .csv para a agenda apenas, salve as mensagens somente sobrar tempo
 - Faça os métodos restantes do CRUD somente se sobrar tempo
 - No program: pode instanciar Contatos diretamente e salvá-los utilizando os métodos da agenda
-
 */
+
+
+
+
+/*
+PONTOS A SEREM AJUSTADOS
+- PascalCase - Métodos e propriedades (prop/profull).
+- camelCase - Atributos, variáveis.
+- _nomeVar - Parâmetros.
+*/
+
+
+
+
+//PARA VER ANTES DA CORREÇÃO, VOLTE UM COMMIT
 
 using System;
 using System.Collections.Generic;

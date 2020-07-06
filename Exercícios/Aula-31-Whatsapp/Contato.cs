@@ -8,9 +8,9 @@ namespace Aula_31_Whatsapp
 
 
         //CONSTRUTOR
-        public Contato(string nome, string telefone) {
-            this.Nome=nome;
-            this.Telefone=telefone;
+        public Contato(string _nome, string _telefone) {
+            this.Nome=_nome;
+            this.Telefone=_telefone;
         }
     }
 }

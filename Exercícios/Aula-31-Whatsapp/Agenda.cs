@@ -5,8 +5,8 @@ namespace Aula_31_Whatsapp
 {
     public class Agenda : IAgenda
     {
-        //PROPRIEDADES
-        public List<Contato> Contatos = new List<Contato>();
+        //PROPRIEDADES/ATRIBUTOS
+        public List<Contato> contatos = new List<Contato>();
         private const string PATH = "Database/Agenda.csv";
 
 
@@ -23,10 +23,10 @@ namespace Aula_31_Whatsapp
         ///     Cadastra um contato no csv.
         /// </summary>
         /// <param name="contato">Contato a ser cadastrado no csv.</param>
-        public void Cadastrar(Contato contato)
+        public void Cadastrar(Contato _contato)
         {
             //Adiciona o contato no csv.
-            string[] linha = new string[] { PrepararLinhaCSV(contato) };
+            string[] linha = new string[] { PrepararLinhaCSV(_contato) };
             File.AppendAllLines(PATH, linha);
         }
 
@@ -35,8 +35,8 @@ namespace Aula_31_Whatsapp
         ///     Cadastra uma mensagem no banco de dados.
         /// </summary>
         /// <param name="mensagemEnviada">É uma string, pronta para entrar no banco de dados, que deve ser retornada a partir do método da classe "Mensagem": Enviar(Contato destinatario). </param>
-        public void Cadastrar(string mensagemEnviada) {
-            string[] linha = new string[] { mensagemEnviada };
+        public void Cadastrar(string _mensagemEnviada) {
+            string[] linha = new string[] { _mensagemEnviada };
             File.AppendAllLines(PATH, linha);
         }
 
@@ -45,7 +45,7 @@ namespace Aula_31_Whatsapp
         ///     Exclui um contato do csv.
         /// </summary>
         /// <param name="contato">Contato a ser excluído do csv.</param>
-        public void Excluir(Contato contato)
+        public void Excluir(Contato _contato)
         {
             //Cria uma lista a ser usada como um "backup". 
             List<string> linhas = new List<string>();
@@ -53,7 +53,7 @@ namespace Aula_31_Whatsapp
             string linha;
             using(StreamReader arquivo = new StreamReader(PATH)) {
                 while(( linha=arquivo.ReadLine()) != null) {
-                    if( !((linha.Contains(contato.Nome)) && (linha.Contains(contato.Telefone))) )
+                    if( !((linha.Contains(_contato.Nome)) && (linha.Contains(_contato.Telefone))) )
                         linhas.Add(linha);
                 }
             }
@@ -80,10 +80,10 @@ namespace Aula_31_Whatsapp
                     //TELEFONE
                     dados[1]=linha.Split(";")[1].Split("=")[1];
                     //Cria-se o objeto e o adicionamos na lista de Contatos.
-                    Contatos.Add( new Contato(dados[0], dados[1]) );
+                    contatos.Add( new Contato(dados[0], dados[1]) );
                 }
             }
-            return Contatos;
+            return contatos;
         }
 
 
@@ -92,9 +92,9 @@ namespace Aula_31_Whatsapp
         /// </summary>
         /// <param name="antes">Contato a ser atualizado.</param>
         /// <param name="depois">Contato atualizado.</param>
-        public void Alterar(Contato antes, Contato depois) {
-            Excluir(antes);
-            Cadastrar(depois);
+        public void Alterar(Contato _antes, Contato _depois) {
+            Excluir(_antes);
+            Cadastrar(_depois);
         }
 
 
@@ -103,8 +103,8 @@ namespace Aula_31_Whatsapp
         /// </summary>
         /// <param name="contato">Contato que será incluído no csv.</param>
         /// <returns>Retorna uma string, já formatada, com cada dado separado por ";".</returns>
-        private string PrepararLinhaCSV(Contato contato) {
-            return $"Nome={contato.Nome};Telefone={contato.Telefone}";
+        private string PrepararLinhaCSV(Contato _contato) {
+            return $"Nome={_contato.Nome};Telefone={_contato.Telefone}";
         }
 
 
@@ -112,9 +112,9 @@ namespace Aula_31_Whatsapp
         ///     Reescreve o csv a partir de uma espécie de backup.
         /// </summary>
         /// <param name="linhas">O "backup".</param>
-        private void ReescreverCSV(List<string> linhas) {
+        private void ReescreverCSV(List<string> _linhas) {
             using(StreamWriter arquivo = new StreamWriter(PATH)) {
-                foreach(string linha in linhas) {
+                foreach(string linha in _linhas) {
                     arquivo.WriteLine(linha);
                 }
             }
