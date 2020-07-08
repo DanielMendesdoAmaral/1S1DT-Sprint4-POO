@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\bin\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\1S1DT-Sprint4-POO\Aula_34-Aplicando_MVC_em_um_projeto_de_console\obj\Debug\netcoreapp3.1\Aula_34-Aplicando_MVC_em_um_projeto_de_console.genruntimeconfig.cache
